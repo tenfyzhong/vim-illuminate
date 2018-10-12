@@ -4,7 +4,7 @@
 
 " Some local variables {{{
 let s:match_id = 1867
-let s:priority = -1
+let s:priority = -100
 let s:previous_match = ''
 let s:enabled = 1
 " }}}
